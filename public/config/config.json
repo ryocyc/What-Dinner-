@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x1fF6B7820A0b4176Fd21044367275Ed1fEc491a2",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1ff6b7820a0b4176fd21044367275ed1fec491a2",
   "NETWORK": {
-    "NAME": "Arbitrum Testnet",
+    "NAME": "Rinkeby Testnet",
     "SYMBOL": "ETH",
-    "ID": 421611
+    "ID": 4
   },
   "NFT_NAME": "What Dinner",
   "SYMBOL": "WD_NFT",
