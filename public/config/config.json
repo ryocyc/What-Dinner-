@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1fF6B7820A0b4176Fd21044367275Ed1fEc491a2",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1ff6b7820a0b4176fd21044367275ed1fec491a2",
+  "NETWORK": {
+    "NAME": "Arbitrum Testnet",
+    "SYMBOL": "ETH",
+    "ID": 421611
+  },
+  "NFT_NAME": "What Dinner",
+  "SYMBOL": "WD_NFT",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/whatdinner",
+  "SHOW_BACKGROUND": true
+}
