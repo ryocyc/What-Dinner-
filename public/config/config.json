@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0xA697C793cAea7993BDD446F72f7c6C38B915bc0B",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xA697C793cAea7993BDD446F72f7c6C38B915bc0B",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Rinkeby Test Network",
     "SYMBOL": "ETH",
     "ID": 4
   },
